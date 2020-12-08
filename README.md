@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewusher" alt="andrewusher" /> </p>
 
-- 👨‍💻 All of my projects are available at [andrew-usher.netlify.app](andrew-usher.netlify.app)
 
-- 📝 I regulary write articles on [casual-cognitions.netlify.app](casual-cognitions.netlify.app)
+- 📝 I regulary write articles on [casual-cognitions.vercel.app/blog](https://casual-cognitions.vercel.app/blog)
 
-- 💬 Ask me about **react, redux, and material-ui**
+- 💬 Ask me about **gatsby, next.js, react, redux, and material-ui**
 
 - 📫 How to reach me **andrewusher00@gmail.com**
 

@@ -3,7 +3,12 @@
 
 [![Andrew Usher StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8110675&layout=compact)](https://stackoverflow.com/users/8110675/andrew-usher)
 
-<div align="center" style="display: flex; justify-content: space-between;"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airtable.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/contentful.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/></div>
+## 🛠  Technologies and tools
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,next,nodejs,prisma,react,remix,vercel,vscode,webpack)](https://skillicons.dev)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewusher" alt="andrewusher" /> </p>
 
